@@ -8,5 +8,5 @@ degit M4p13/SvelteKitBase
 # what is this for
 
 this is for quickly startin a sveltekit project with some preset libraries. The libraries currently in this template are 
-- tailwindcss
-- daisyui
+- [tailwindcss](https://tailwindcss.com/)
+- [daisyui](https://daisyui.com/)
