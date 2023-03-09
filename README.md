@@ -1,4 +1,4 @@
-# create a new project from this project
+# create a new project from this repo
 
 ```
 npm install -g degit
